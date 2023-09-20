@@ -9,9 +9,9 @@ The AI Receptionist for Patient Reports is an innovative project aimed at stream
 
 ## Features
 
-### 1. Patient Symptom Analysis
+### 1. Patient Intake Form
 - The AI Receptionist collects input information from patients, including symptoms and medical history.
-- It analyzes the patient's input to identify potential health issues.
+- enhanced user experienced , reduced wait time at health-clinics , save on paper , and prevent information loss
 
 ### 2. Report Generation
 - Based on the collected information, the AI system generates comprehensive patient reports.
